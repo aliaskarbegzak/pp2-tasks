@@ -1,5 +1,3 @@
-
-
 DB_CONFIG = {
     "host": "localhost",
     "database": "snake_tsis4",
