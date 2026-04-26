@@ -1,5 +1,4 @@
-# PostgreSQL connection settings
-# Change password and database name for your PostgreSQL.
+
 
 DB_CONFIG = {
     "host": "localhost",
